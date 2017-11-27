@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/Table.java</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/Column.java</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/SQLParser.java</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/QryKeySucessorTokenizer.java</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/SELECT.txt</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/SQLSYM.txt</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/DataType.java</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/Database.java</file>
+            <file>file:/C:/Users/jde/Documents/NetBeansProjects/SQLParser/src/sqlparser/QryContext.java</file>
+        </group>
+    </open-files>
+</project-private>

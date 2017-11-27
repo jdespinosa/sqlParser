@@ -1,0 +1,10 @@
+RULES:
+SELECT      =   *  SYM:collist
+*           =   FROM
+SYM:collist =   FROM
+FROM        =   SYM:tbllist
+SYM:tbllist =   WHERE     SYM:EOQ
+
+CONDS:
+1=Prev-SYM:colname
+2=Prev-SYM:tblname

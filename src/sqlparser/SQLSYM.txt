@@ -1,0 +1,5 @@
+colname=Column Name
+tblname=Table Name
+collist=List of comma-separated column names
+tbllist=list of comma-separated table names
+EOQ=End of Query
